@@ -29,4 +29,8 @@ st.subheader("📄 Dados carregados:")
 st.dataframe(df.head())
 
 # Verificar existência da coluna 'Segment'
-if 'Segment' not in df.columns:                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+if 'Segment' not in df.columns:    
+
+Clone este repositório
+Adicione o dataset na pasta do projeto
+Execute a aplicação
